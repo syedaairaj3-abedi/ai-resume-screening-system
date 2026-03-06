@@ -57,3 +57,14 @@ Candidate Ranking Table
 • Skill extraction and keyword analysis  
 • Visualization dashboard for recruiters  
 • Integration with hiring platforms
+
+
+---
+
+## Application Preview
+
+### Interface
+![Application Interface](app interface.png)
+
+### Ranking Results
+![Ranking Results](ranking results.png)
