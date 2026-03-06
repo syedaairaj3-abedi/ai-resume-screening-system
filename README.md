@@ -64,8 +64,8 @@ Candidate Ranking Table
 ---
 ## Application Interface
 
-![Application Interface](Apps Interface.png)
+![Application Interface](Apps%20Interface.png)
 
 ## Candidate Ranking Results
 
-![Candidate Ranking](Candidate Ranking Results.png)
+![Candidate Ranking Results](Candidate%20Ranking%20Results.png)
