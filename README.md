@@ -61,10 +61,6 @@ Candidate Ranking Table
 
 ---
 
-## Application Preview
+![Application Interface](app%20interface.png)
 
-### Interface
-![Application Interface](app interface.png)
-
-### Ranking Results
-![Ranking Results](ranking results.png)
+![Ranking Results](ranking%20results.png)
