@@ -1,5 +1,7 @@
 # AI Resume Screening System
 
+## Live Demo
+Try the app here: https://ai-resume-screening-system-tdy5sybjaldx73v6qktzn.streamlit.app
 ## Overview
 Recruiters often review hundreds of resumes for a single job opening. This project demonstrates how Natural Language Processing (NLP) can support data-driven hiring decisions by automatically ranking resumes based on their similarity to a job description.
 
